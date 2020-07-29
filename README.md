@@ -8,3 +8,5 @@ Yess in deed
 # bæta við fleiri hlutum 
 
 # bæta bæta bæta 
+
+# Bæta við fleiru 
